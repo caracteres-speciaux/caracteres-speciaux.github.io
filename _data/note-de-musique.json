@@ -1,0 +1,58 @@
+[
+  {
+    "nameFR": "",
+    "glyph": "♫",
+    "htmlCode": "&#9835;",
+    "unicode": "U+9835",
+    "keyboardShortCut": "Alt+266B",
+    "titleFR": "note de musique deux croches ramées"
+  },
+  {
+    "nameFR": "",
+    "glyph": "♯",
+    "htmlCode": "&#9839;",
+    "unicode": "U+9839",
+    "keyboardShortCut": "Alt+266F",
+    "titleFR": "dièse"
+  },
+  {
+    "nameFR": "",
+    "glyph": "♮",
+    "htmlCode": "&#9838;",
+    "unicode": "U+9838",
+    "keyboardShortCut": "Alt+266E",
+    "titleFR": "bécarre"
+  },
+  {
+    "nameFR": "",
+    "glyph": "♭",
+    "htmlCode": "&#9837;",
+    "unicode": "U+9837",
+    "keyboardShortCut": "Alt+266D",
+    "titleFR": "note de musique bémol"
+  },
+  {
+    "nameFR": "",
+    "glyph": "♬",
+    "htmlCode": "&#9836;",
+    "unicode": "U+9836",
+    "keyboardShortCut": "Alt+266C",
+    "titleFR": "note de musique deux doubles croches ramées"
+  },
+  {
+    "nameFR": "",
+    "glyph": "♪",
+    "htmlCode": "&#9834;",
+    "unicode": "U+9834",
+    "keyboardShortCut": "Alt+266A",
+    "titleFR": "note de musique croche"
+  },
+  {
+    "nameFR": "",
+    "glyph": "♩",
+    "htmlCode": "&#9833;",
+    "unicode": "U+9833",
+    "keyboardShortCut": "Alt+2669",
+    "titleFR": "note de musique noire"
+  }
+]

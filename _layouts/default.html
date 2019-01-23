@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="fr">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -34,20 +34,13 @@
     <meta property="og:type" content="article" />
     <meta property="og:title" content="{{ page.title }}"/>
     <meta property="og:description" content="{% if page.description %}{{ page.description }}{% endif %}" />
-    <meta property="og:image"  content="{% if page.image %}{{site.url}}{{ page.image }}{% endif %}" />
+    <meta property="og:image"  content="{% if page.image %}{{site.url}}/assets/img/{{ page.image }}{% endif %}" />
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-    <meta property="article:published_time" content="{{ page.date }}" />
-    <meta property="article:modified_time" content="{{ page.date }}" />
-    <meta property="article:publisher" content="https://www.facebook.com/Weswap-356287914865835" />
-    <meta property="og:site_name" content="Weswap" />
-    <meta property="fb:app_id" content="356287914865835" />
-    <meta property="og:locale:alternate" content="en_US" />
+    <meta property="og:site_name" content="Caracteres speciaux" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:site" content="@weswap_official" />
-    <meta name="twitter:creator" content="@weswap_official" />
     <meta name="twitter:title" content="{{ page.title }}" />
     <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% endif %}" />
-    <meta name="twitter:image" content="{% if page.image %}{{site.url}}{{ page.image }}{% endif %}" />
+    <meta name="twitter:image" content="{% if page.image %}{{site.url}}/assets/img/{{ page.image }}{% endif %}" />
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-35238952-1"></script>
@@ -74,48 +67,50 @@
     <!-- NAVIGATION
     ================================================== -->
 
-    <div class="bg-ellipses bg-purple-curved pb-7">
+    <div class="bg-ellipses {% if page.category == "emoji" or page.category == "emojiColor" or page.category == "emojiImg" %} bg-emoji {% else %} bg-purple-curved {% endif %} pb-7">
+
 
         <nav class="navbar navbar-expand-lg bg-transparent border border-0" id="topnav">
-          <div class="container">
+          <div class="container d-flex justify-content-center">
 
             <!-- Brand -->
-            <a class="mr-auto" href="{{site.url}}/">
-              <img src="{{site.url}}/assets/img/weswap-logo.svg" alt="weswap logo" height="36">
+            <a class="mr-0 mr-md-3 align-middle text-white" href="{{site.url}}/">
+                <span class="avatar">
+                    <img class="avatar-img rounded-circle" src="{{site.url}}/assets/img/logo.png" alt="Logo Licorne Caracteres-speciaux.net" height="48">
+                </span>
+                <span class="font-weight-bold ml-2">Caractères Spéciaux</span>
             </a>
 
-            <!-- social -->
+            <!-- social
             <div class="navbar-user">
-              <a class="text-white mr-5 d-none d-md-inline-block" href="/blog">Caractères Spéciaux</a>
-              <a class="text-white mr-5 d-none d-md-inline-block" href="/blog">Emoji & Symbole</a>
-              <a class="text-white mr-5 d-none d-md-inline-block" href="/blog">Emoji Image png</a>
-              <a href="https://t.me/weswapio" class="btn btn-rounded-circle btn-white mr-3 d-none d-md-inline-block">
-                <img class="mx-auto" src="{{site.url}}/assets/img/telegram.svg" alt="telegram logo" height="20">
-              </a>
-              <a href="https://twitter.com/weswap_official" class="btn btn-rounded-circle btn-white mr-3 d-none d-md-inline-block">
+              <a class="text-white mr-0 mr-md-5 mt-3 mt-md-0 d-inline-block" href="/shop">Le Shop</a>
+              <a href="https://twitter.com/Caracteres-speciaux" class="btn btn-rounded-circle btn-white mr-3 d-none d-md-inline-block">
                 <img class="mx-auto" src="{{site.url}}/assets/img/twitter.svg" alt="twitter logo" height="20">
               </a>
-              <a href="https://medium.com/weswap" class="btn btn-rounded-circle btn-white d-none d-md-inline-block">
-                <img class="mx-auto" src="{{site.url}}/assets/img/medium.svg" alt="medium logo" height="20">
-              </a>
             </div>
+            -->
 
           </div> <!-- / .container -->
         </nav>
 
+        <div class="container mt-4 mb-3">
+            <div class="header">
+              <div class="header-body text-center border-0">
+                <div class="row d-flex justify-content-center">
+                  <div class="col col-md-7">
 
-        <div class="container mt-4 mb-6">
-          <div class="row justify-content-center">
-            <div class="col-11 col-lg-10 col-xl-8">
-              <!-- Title -->
-              <h1 class="display-3 d-none d-md-block text-center text-white">
-                Code et raccourcis clavier de caractères spéciaux & emoji
-              </h1>
-              <h1 class="display-4 d-block d-md-none text-center text-white mt-5">
-                Code et raccourcis clavier de caractères spéciaux & emoji
-              </h1>
+                    <h6 class="header-pretitle text-dark">
+                      Rechercher - Copier - Coller
+                    </h6>
+
+                    <h1 class="header-title text-white mb-3">
+                      {{ page.heading1 }}
+                    </h1>
+
+                  </div>
+                </div>
+              </div>
             </div>
-          </div>
         </div>
     </div>
 
@@ -126,14 +121,11 @@
     <div class="main-content">
       <div class="container mt--7">
           <div class="row justify-content-center">
-            <div class="col-12 col-lg-10 col-xl-8">
-                <div class="row fixed-bottom align-items-end">
-                  <div class="col">
-
-                  </div>
+            <div class="col-12 col-lg-10 col-xl-7">
+                <div class="row fixed-bottom justify-content-end">
                   <div class="col-auto">
 
-                      <a href="#search" class="btn btn-lg btn-rounded-circle btn-primary mb-5 mr-4">
+                      <a href="#search" class="btn btn-lg btn-rounded-circle btn-light border mb-5 mb-md-4 mr-4">
                         <span class="fe fe-search"></span>
                       </a>
 
@@ -141,40 +133,59 @@
                 </div>
               <!-- Search results -->
               <div class="card" data-toggle="lists" data-lists-values='["name"]' id="search">
-                <div class="card-header">
-                  <div class="row align-items-center">
-                    <div class="col">
-
-                      <!-- Title -->
-                      <h4 class="card-header-title">
-                        +3000 références
-                      </h4>
-
-                    </div>
-                    <div class="col-auto">
-
-                      <!-- Dropdown -->
-                      <div class="dropdown">
-
-                        <!-- Toggle -->
-                        <a href="#!" class="small text-muted dropdown-toggle" data-toggle="dropdown">
-                          Trier
+                <div class="card-header pr-0 pb-0 pl-0">
+                    <ul class="nav nav-tabs nav-tabs-lg nav-overflow border-0">
+                      <li class="nav-item pl-4">
+                        <a href="/" class="nav-link text-center {% if page.category == "all" %}active{% endif %}">
+                          Tous&nbsp;les&nbsp;symboles
                         </a>
-
-                        <!-- Menu -->
-                        <div class="dropdown-menu">
-                          <a class="dropdown-item sort" data-sort="name" href="#!">
-                            Asc
-                          </a>
-                          <a class="dropdown-item sort" data-sort="name" href="#!">
-                            Desc
-                          </a>
-                        </div>
-
-                      </div>
-
-                    </div>
-                  </div> <!-- / .row -->
+                      </li>
+                      <li class="nav-item">
+                        <a href="/smiley-emoticone" class="nav-link text-center {% if page.category == "emoji" %}active{% endif %}">
+                          Emoji
+                        </a>
+                      </li>
+                      <li class="nav-item">
+                        <a href="/emoji-couleurs-teintes" class="nav-link text-center {% if page.category == "emojiColor" %}active{% endif %}">
+                          Emoji&nbsp;couleurs
+                        </a>
+                      </li>
+                      <li class="nav-item">
+                        <a href="/emoji-image-png-telecharger" class="nav-link text-center {% if page.category == "emojiImg" %}active{% endif %}">
+                          Emoji&nbsp;Image&nbsp;.PNG
+                        </a>
+                      </li>
+                      <li class="nav-item">
+                        <a href="/symboles-mathematiques" class="nav-link text-center {% if page.category == "symbolMaths" %}active{% endif %}">
+                          Symbole&nbsp;mathématique
+                        </a>
+                      </li>
+                      <li class="nav-item">
+                        <a href="/lettres-grecques" class="nav-link text-center {% if page.category == "greekLetter" %}active{% endif %}">
+                          Lettre&nbsp;grecque
+                        </a>
+                      </li>
+                      <li class="nav-item">
+                        <a href="/fleches" class="nav-link text-center {% if page.category == "arrow" %}active{% endif %}">
+                          Flèche
+                        </a>
+                      </li>
+                      <li class="nav-item">
+                        <a href="/signe-zodiaque" class="nav-link text-center {% if page.category == "zodiacSign" %}active{% endif %}">
+                          Signes&nbsp;du&nbsp;Zodiaque
+                        </a>
+                      </li>
+                      <li class="nav-item">
+                        <a href="/ponctuation-generale" class="nav-link text-center {% if page.category == "ponctuation" %}active{% endif %}">
+                            Ponctuation
+                        </a>
+                      </li>
+                      <li class="nav-item pr-4">
+                        <a href="/note-de-musique" class="nav-link text-center {% if page.category == "musicsymbol" %}active{% endif %}">
+                          Note&nbsp;de&nbsp;musique
+                        </a>
+                      </li>
+                    </ul>
                 </div>
                 <div class="card-header">
                   <div class="row">
@@ -183,7 +194,7 @@
                       <!-- Form -->
                       <form>
                         <div class="input-group input-group-flush input-group-merge">
-                          <input type="search" class="form-control form-control-prepended search" placeholder="Rechercher">
+                          <input type="search" class="form-control form-control-prepended search" placeholder="Rechercher par nom ou description">
                           <div class="input-group-prepend">
                             <div class="input-group-text">
                               <span class="fe fe-search"></span>
@@ -201,19 +212,30 @@
                   <ul class="list-group list-group-lg list-group-flush list my--4">
                       <!-- list all items
                       ================================================== -->
-                      {% for item in site.data.characters %}
-                        <li class="list-group-item px-0 pb-0">
+                      {% for item in site.data.[page.titre_fichier_data] %}
+                        <li class="list-group-item px-0 {% if item.glyphImg %}pb-3{% else %}pb-0{%endif%}">
 
                             <div class="row align-items-center">
                                 <div class="col-auto text-center mb-4 mb-md-0">
 
                                     <!-- Glyph -->
                                     <span class="avatar avatar-lg">
-                                        <span class="avatar-img rounded display-3">{{ item.glyph }}</span>
+                                        {% if item.glyphImg %}
+                                            <span class="avatar-img rounded">
+                                                <img class="mx-auto" src="{{ item.glyphImg }}" alt="{{ item.glyphImg }} emoji format png transparent" height="48">
+                                            </span>
+                                        {% else %}
+                                            <span class="avatar-img rounded display-3">{{ item.glyph }}</span>
+                                        {% endif %}
+
                                     </span>
 
                                     <div class="mt--3 d-block d-md-none">
-                                        <button class="btn btn-white btn-sm" type="button" data-clipboard-text="{{ item.glyph }}"><i class="fe fe-copy"></i> Copy</button>
+                                        {% if item.glyphImg %}
+                                            <button class="btn btn-white btn-sm" type="submit" onclick="window.open('{{ item.glyphImg }}')" target="_blank"><i class="fe fe-download"></i> Télécharger</button>
+                                        {% else %}
+                                            <button class="btn btn-white btn-sm" type="button" data-clipboard-text="{{ item.glyph }}"><i class="fe fe-copy"></i> Copier</button>
+                                        {% endif %}
                                     </div>
 
                                 </div>
@@ -221,7 +243,7 @@
 
                                     <!-- Title -->
                                     <h3 class="card-title mb-1 name">
-                                    {{ item.titleFR }}
+                                    {{ item.titleFR | remove: ":" }}
                                     </h3>
                                     {% if item.nameFR != "" %}
                                         <h6 class="text-muted m-0">
@@ -229,6 +251,8 @@
                                         </h6>
                                     {% endif %}
 
+                                    {% if item.glyphImg %}
+                                    {% else %}
                                     <!-- Details -->
                                     <div id="accordion">
                                       <div class="card border-0 shadow-none mb-0">
@@ -244,7 +268,7 @@
                                           <div class="card-body p-0">
                                               <div class="row">
                                                   {% if item.nameFR != "" %}
-                                                  <div class="col-md-4 mb-4 mb-md-0">
+                                                  <div class="col-md-3 mb-4 mb-md-0">
                                                       <h6 class="header-pretitle text-secondary">
                                                         Code HTML
                                                       </h6>
@@ -254,13 +278,14 @@
                                                   </div>
                                                   {% endif %}
                                                   {% if item.keyboardShortCut != "" %}
-                                                  <div class="col-md-4 mb-4 mb-md-0">
+                                                  <div class="col-md-5 mb-4 mb-md-4">
                                                       <h6 class="header-pretitle text-secondary">
-                                                        Raccourcis clavier
+                                                        Symbole clavier
                                                       </h6>
                                                       <h3 class="mb-0 text-truncate">
                                                         {{ item.keyboardShortCut }}
                                                       </h3>
+                                                      <small class="text-muted">Windows & Mac ALT code</small>
                                                   </div>
                                                   {% endif %}
                                                   {% if item.unicode != "" %}
@@ -268,7 +293,7 @@
                                                       <h6 class="header-pretitle text-secondary">
                                                         Unicode
                                                       </h6>
-                                                      <h3 class="mb-0 text-truncate">
+                                                      <h3 class="mb-0">
                                                         {{ item.unicode }}
                                                       </h3>
                                                   </div>
@@ -278,10 +303,16 @@
                                         </div>
                                       </div>
                                     </div>
+                                    {% endif %}
+
                                 </div>
                                 <div class="col-auto">
                                     <div class="mt--3 d-none d-md-block">
-                                        <button class="btn btn-white btn-sm" type="button" data-clipboard-text="{{ item.glyph }}"><i class="fe fe-copy"></i> Copy</button>
+                                        {% if item.glyphImg %}
+                                            <button class="btn btn-white btn-sm" type="submit" onclick="window.open('{{ item.glyphImg }}')"><i class="fe fe-download"></i> Télécharger</button>
+                                        {% else %}
+                                            <button class="btn btn-white btn-sm" type="button" data-clipboard-text="{{ item.glyph }}"><i class="fe fe-copy"></i> Copier</button>
+                                        {% endif %}
                                     </div>
 
 
@@ -301,55 +332,33 @@
           </div> <!-- / .row -->
       </div>
       <!-- footer -->
-      <div class="container pb-4 mt-6">
+      <div class="container pb-4 mt-5">
         <div class="row justify-content-center">
           <div class="col-11 col-md-10 col-lg-8 col-xl-6">
 
             <!-- Title -->
             <h2 class="display-3 text-center d-none d-md-block">
-              Exchange ERC20 tokens using your own Ethereum wallet
+              Plus de 4 000 emojis & symboles clavier à copier
             </h2>
             <h2 class="display-4 text-center d-block d-md-none">
-              Exchange ERC20 tokens using your own Ethereum wallet.
+                Plus de 4 000 emojis & symboles clavier à copier
             </h2>
 
             <!-- Text -->
             <p class="lead text-secondary text-center mt-5">
-              Be the first to try our Alpha and know when we officially launch 👇.
+              L'univers Emoji évolue chaque jour. N'en perdez pas une miette 🍪👇.
             </p>
-            <form action="https://weswap.us19.list-manage.com/subscribe/post?u=7af5c3187ee4d9e4add305a2e&amp;id=035cb9fb40" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate col-auto col-md-6 mx-auto mb-4" target="_blank" novalidate>
-              <div class="justify-content-center">
-                <div class="input-group input-group-lg">
-                  <input class="form-control bg-white" type="email" value="" name="EMAIL" id="mce-EMAIL" placeholder="myemail@address.com" required>
-                  <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_7af5c3187ee4d9e4add305a2e_035cb9fb40" tabindex="-1" value=""></div>
-                  <div class="input-group-append bg-black">
-                    <button class="btn btn-dark btn-lg btn-block" name="subscribe" id="mc-embedded-subscribe">
-                        <span class="fe fe-send"></span>
-                    </button>
-                  </div>
-                </div>
-              </div>
-            </form>
             <div class="row justify-content-center">
-              <div class="col-auto mb-5 mt-5">
-                <div class="col-auto mb-5 mt-5">
-                  <a href="https://t.me/weswapio" class="btn btn-rounded-circle btn-white mr-3">
-                    <img class="mx-auto" src="{{site.url}}/assets/img/telegram.svg" alt="telegram logo" height="20">
-                  </a>
-                  <a href="https://twitter.com/weswap_official" class="btn btn-rounded-circle btn-white mr-3">
-                    <img class="mx-auto" src="{{site.url}}/assets/img/twitter.svg" alt="twitter logo" height="20">
-                  </a>
-                  <a href="https://medium.com/weswap" class="btn btn-rounded-circle btn-white mr-3">
-                    <img class="mx-auto" src="{{site.url}}/assets/img/medium.svg" alt="medium logo" height="20">
-                  </a>
-                  <a href="https://github.com/weswapexchange" class="btn btn-rounded-circle btn-white">
-                    <img class="mx-auto" src="{{site.url}}/assets/img/github.svg" alt="medium logo" height="20">
+              <div class="col-auto mb-5">
+                <div class="col-auto mb-5 mt-3">
+                  <a href="https://t.me/caracteres_speciaux" class="btn btn-rounded-circle btn-white mr-3">
+                    <img class="mx-auto" src="{{site.url}}/assets/img/telegram.svg" alt="Telegram logo" height="20">
                   </a>
                 </div>
               </div>
             </div>
-            <p class="text-center text-secondary">
-              Contact us at <a class="text-secondary" href="mailto:team@weswap.io?subject=Hey">team@weswap.io</a> • Copyright © 2018 Weswap.
+            <p class="text-center text-secondary mb-6">
+               <a class="btn-link" href="http://caracteres-speciaux.net/" target="_blank">Emoji & symbole clavier</a> • <a class="btn-link" href="http://fr.wikipedia.org/wiki/Aide:Liste_de_caract%C3%A8res_sp%C3%A9ciaux" target="_blank">Liste Wiki</a> • <a class="btn-link" href="https://fr.wikipedia.org/wiki/Unicode_Standard" target="_blank">Norme Unicode</a> • <a class="btn-link" href="https://t.me/caracteres_speciaux" target="_blank">Groupe Telegram & feedback</a>.
             </p>
 
           </div>
@@ -372,7 +381,7 @@
     clipboard.on('success', function(e) {
         let div = document.createElement('nav');
           div.className = "navbar fixed-bottom bg-success border-0 text-center d-block text-white";
-          div.innerHTML = "🎉 Copié dans votre presse-papier!";
+          div.innerHTML = "👏 Copié dans ton presse-papier!";
 
           document.body.append(div);
           setTimeout(() => div.remove(), 2000);

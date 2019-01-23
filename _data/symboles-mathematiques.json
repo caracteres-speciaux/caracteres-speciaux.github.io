@@ -1,0 +1,394 @@
+[
+  {
+    "nameFR": "forall",
+    "glyph": "∀",
+    "htmlCode": "&forall;",
+    "unicode": "U+2200 (8704)",
+    "keyboardShortCut": "Alt+2200",
+    "titleFR": "Symbole mathématique Pour tous"
+  },
+  {
+    "nameFR": "part",
+    "glyph": "∂",
+    "htmlCode": "&part;",
+    "unicode": "U+2202 (8706)",
+    "keyboardShortCut": "Alt+2202",
+    "titleFR": "Symbole mathématique Dérivée partielle"
+  },
+  {
+    "nameFR": "exist",
+    "glyph": "∃",
+    "htmlCode": "&exist;",
+    "unicode": "U+2203 (8707)",
+    "keyboardShortCut": "Alt+2203",
+    "titleFR": "Symbole mathématique Quantificateur existentiel"
+  },
+  {
+    "nameFR": "empty",
+    "glyph": "∅",
+    "htmlCode": "&empty;",
+    "unicode": "U+2205 (8709)",
+    "keyboardShortCut": "Alt+2205",
+    "titleFR": "Symbole mathématique Ensemble vide"
+  },
+  {
+    "nameFR": "nabla",
+    "glyph": "∇",
+    "htmlCode": "&nabla;",
+    "unicode": "U+2207 (8711)",
+    "keyboardShortCut": "Alt+2207",
+    "titleFR": "Symbole Nabla"
+  },
+  {
+    "nameFR": "isin",
+    "glyph": "∈",
+    "htmlCode": "&isin;",
+    "unicode": "U+2208 (8712)",
+    "keyboardShortCut": "Alt+2208",
+    "titleFR": "Symbole mathématique Appartient à"
+  },
+  {
+    "nameFR": "notin",
+    "glyph": "∉",
+    "htmlCode": "&notin;",
+    "unicode": "U+2209 (8713)",
+    "keyboardShortCut": "Alt+2209",
+    "titleFR": "Symbole mathématique N'appartient pas à"
+  },
+  {
+    "nameFR": "ni",
+    "glyph": "∋",
+    "htmlCode": "&ni;",
+    "unicode": "U+220B (8715)",
+    "keyboardShortCut": "Alt+220B",
+    "titleFR": "Symbole mathématique Contient comme élément"
+  },
+  {
+    "nameFR": "prod",
+    "glyph": "∏",
+    "htmlCode": "&prod;",
+    "unicode": "U+220F (8719)",
+    "keyboardShortCut": "Alt+220F",
+    "titleFR": "Symbole mathématique Produit"
+  },
+  {
+    "nameFR": "sum",
+    "glyph": "∑",
+    "htmlCode": "&sum;",
+    "unicode": "U+2211 (8721)",
+    "keyboardShortCut": "Alt+2211",
+    "titleFR": "Symbole mathématique Somme"
+  },
+  {
+    "nameFR": "minus",
+    "glyph": "−",
+    "htmlCode": "&minus;",
+    "unicode": "U+2212 (8722)",
+    "keyboardShortCut": "Alt+2212",
+    "titleFR": "Symbole moins"
+  },
+  {
+    "nameFR": "lowast",
+    "glyph": "∗",
+    "htmlCode": "&lowast;",
+    "unicode": "U+2217 (8727)",
+    "keyboardShortCut": "Alt+2217",
+    "titleFR": "Astérisque"
+  },
+  {
+    "nameFR": "radic",
+    "glyph": "√",
+    "htmlCode": "&radic;",
+    "unicode": "U+221A (8730)",
+    "keyboardShortCut": "Alt+221A",
+    "titleFR": "Symbole mathématique Racine carrée"
+  },
+  {
+    "nameFR": "prop",
+    "glyph": "∝",
+    "htmlCode": "&prop;",
+    "unicode": "U+221D (8733)",
+    "keyboardShortCut": "Alt+221D",
+    "titleFR": "Symbole mathématique Proportionnel à"
+  },
+  {
+    "nameFR": "infin",
+    "glyph": "∞",
+    "htmlCode": "&infin;",
+    "unicode": "U+221E (8734)",
+    "keyboardShortCut": "Alt+221E",
+    "titleFR": "Symbole mathématique Infini"
+  },
+  {
+    "nameFR": "ang",
+    "glyph": "∠",
+    "htmlCode": "&ang;",
+    "unicode": "U+2220 (8736)",
+    "keyboardShortCut": "Alt+2220",
+    "titleFR": "Symbole mathématique Angle"
+  },
+  {
+    "nameFR": "and",
+    "glyph": "∧",
+    "htmlCode": "&and;",
+    "unicode": "U+2227 (8743)",
+    "keyboardShortCut": "Alt+2227",
+    "titleFR": "Symbole ET logique"
+  },
+  {
+    "nameFR": "or",
+    "glyph": "∨",
+    "htmlCode": "&or;",
+    "unicode": "U+2228 (8744)",
+    "keyboardShortCut": "Alt+2228",
+    "titleFR": "Symbole OU logique"
+  },
+  {
+    "nameFR": "cap",
+    "glyph": "∩",
+    "htmlCode": "&cap;",
+    "unicode": "U+2229 (8745)",
+    "keyboardShortCut": "Alt+2229",
+    "titleFR": "Symbole mathématique Intersection"
+  },
+  {
+    "nameFR": "cup",
+    "glyph": "∪",
+    "htmlCode": "&cup;",
+    "unicode": "U+222A (8746)",
+    "keyboardShortCut": "Alt+222A",
+    "titleFR": "Symbole mathématique Union"
+  },
+  {
+    "nameFR": "int",
+    "glyph": "∫",
+    "htmlCode": "&int;",
+    "unicode": "U+222B (8747)",
+    "keyboardShortCut": "Alt+222B",
+    "titleFR": "Symbole mathématique Intégration"
+  },
+  {
+    "nameFR": "there4",
+    "glyph": "∴",
+    "htmlCode": "&there4;",
+    "unicode": "U+2234 (8756)",
+    "keyboardShortCut": "Alt+2234",
+    "titleFR": "Astérisme"
+  },
+  {
+    "nameFR": "sim",
+    "glyph": "∼",
+    "htmlCode": "&sim;",
+    "unicode": "U+223C (8764)",
+    "keyboardShortCut": "Alt+223C",
+    "titleFR": "tilde"
+  },
+  {
+    "nameFR": "cong",
+    "glyph": "≅",
+    "htmlCode": "&cong;",
+    "unicode": "U+2245 (8773)",
+    "keyboardShortCut": "Alt+2245",
+    "titleFR": "Symbole mathématique Approximativement égal à"
+  },
+  {
+    "nameFR": "asymp",
+    "glyph": "≈",
+    "htmlCode": "&asymp;",
+    "unicode": "U+2248 (8776)",
+    "keyboardShortCut": "Alt+2248",
+    "titleFR": "Symbole mathématique Asymptotique à"
+  },
+  {
+    "nameFR": "ne",
+    "glyph": "≠",
+    "htmlCode": "&ne;",
+    "unicode": "U+2260 (8800)",
+    "keyboardShortCut": "Alt+2260",
+    "titleFR": "Symbole mathématique Pas égale à"
+  },
+  {
+    "nameFR": "equiv",
+    "glyph": "≡",
+    "htmlCode": "&equiv;",
+    "unicode": "U+2261 (8801)",
+    "keyboardShortCut": "Alt+2261",
+    "titleFR": "Symbole mathématique Congruence"
+  },
+  {
+    "nameFR": "le",
+    "glyph": "≤",
+    "htmlCode": "&le;",
+    "unicode": "U+2264 (8804)",
+    "keyboardShortCut": "Alt+2264",
+    "titleFR": "Symbole mathématique Inférieur ou égal à"
+  },
+  {
+    "nameFR": "ge",
+    "glyph": "≥",
+    "htmlCode": "&ge;",
+    "unicode": "U+2265 (8805)",
+    "keyboardShortCut": "Alt+2265",
+    "titleFR": "Symbole mathématique Supérieur ou égal à"
+  },
+  {
+    "nameFR": "sub",
+    "glyph": "⊂",
+    "htmlCode": "&sub;",
+    "unicode": "U+2282 (8834)",
+    "keyboardShortCut": "Alt+2282",
+    "titleFR": "Symbole mathématique Sous-ensemble de"
+  },
+  {
+    "nameFR": "sup",
+    "glyph": "⊃",
+    "htmlCode": "&sup;",
+    "unicode": "U+2283 (8835)",
+    "keyboardShortCut": "Alt+2283",
+    "titleFR": "Symbole mathématique Sur-ensemble de"
+  },
+  {
+    "nameFR": "nsub",
+    "glyph": "⊄",
+    "htmlCode": "&nsub;",
+    "unicode": "U+2284 (8836)",
+    "keyboardShortCut": "Alt+2284",
+    "titleFR": "Symbole mathématique Pas un sous-ensemble de"
+  },
+  {
+    "nameFR": "sube",
+    "glyph": "⊆",
+    "htmlCode": "&sube;",
+    "unicode": "U+2286 (8838)",
+    "keyboardShortCut": "Alt+2286",
+    "titleFR": "Symbole mathématique Sous-ensemble ou égal à"
+  },
+  {
+    "nameFR": "supe",
+    "glyph": "⊇",
+    "htmlCode": "&supe;",
+    "unicode": "U+2287 (8839)",
+    "keyboardShortCut": "Alt+2287",
+    "titleFR": "Symbole mathématique Sur-ensemble ou égal à"
+  },
+  {
+    "nameFR": "oplus",
+    "glyph": "⊕",
+    "htmlCode": "&oplus;",
+    "unicode": "U+2295 (8853)",
+    "keyboardShortCut": "Alt+2295",
+    "titleFR": "Symbole mathématique Somme directe (Plus cerclé)"
+  },
+  {
+    "nameFR": "otimes",
+    "glyph": "⊗",
+    "htmlCode": "&otimes;",
+    "unicode": "U+2297 (8855)",
+    "keyboardShortCut": "Alt+2297",
+    "titleFR": "Symbole mathématique Produit vectoriel (Multiplié par cerclé)"
+  },
+  {
+    "nameFR": "micro",
+    "glyph": "µ",
+    "htmlCode": "&micro;",
+    "unicode": "U+00B5 (181)",
+    "keyboardShortCut": "Alt+00B5",
+    "titleFR": "Symbole micro (lettre grec mu minuscule)"
+  },
+  {
+    "nameFR": "not",
+    "glyph": "¬",
+    "htmlCode": "&not;",
+    "unicode": "U+00AC (172)",
+    "keyboardShortCut": "Alt+00AC",
+    "titleFR": "Symbole non logique"
+  },
+  {
+    "nameFR": "deg",
+    "glyph": "°",
+    "htmlCode": "&deg;",
+    "unicode": "U+00B0 (176)",
+    "keyboardShortCut": "Alt+00B0",
+    "titleFR": "Symbole Degré"
+  },
+  {
+    "nameFR": "plusmn",
+    "glyph": "±",
+    "htmlCode": "&plusmn;",
+    "unicode": "U+00B1 (177)",
+    "keyboardShortCut": "Alt+00B1",
+    "titleFR": "Signe plus ou moins"
+  },
+  {
+    "nameFR": "sup1",
+    "glyph": "¹",
+    "htmlCode": "&sup1;",
+    "unicode": "U+00B9 (185)",
+    "keyboardShortCut": "Alt+00B9",
+    "titleFR": "Exposant un"
+  },
+  {
+    "nameFR": "sup2",
+    "glyph": "²",
+    "htmlCode": "&sup2;",
+    "unicode": "U+00B2 (178)",
+    "keyboardShortCut": "Alt+00B2",
+    "titleFR": "Exposant deux"
+  },
+  {
+    "nameFR": "sup3",
+    "glyph": "³",
+    "htmlCode": "&sup3;",
+    "unicode": "U+00B3 (179)",
+    "keyboardShortCut": "Alt+00B3",
+    "titleFR": "Exposant trois"
+  },
+  {
+    "nameFR": "acute",
+    "glyph": "´",
+    "htmlCode": "&acute;",
+    "unicode": "U+00B4 (180)",
+    "keyboardShortCut": "Alt+00B4",
+    "titleFR": "Accent aigu"
+  },
+  {
+    "nameFR": "frac14",
+    "glyph": "¼",
+    "htmlCode": "&frac14;",
+    "unicode": "U+00BC (188)",
+    "keyboardShortCut": "Alt+00BC",
+    "titleFR": "Fraction un-quart (un divisé par quatre)"
+  },
+  {
+    "nameFR": "frac12",
+    "glyph": "½",
+    "htmlCode": "&frac12;",
+    "unicode": "U+00BD (189)",
+    "keyboardShortCut": "Alt+00BD",
+    "titleFR": "Fraction un-demi (un divisé par deux)"
+  },
+  {
+    "nameFR": "frac34",
+    "glyph": "¾",
+    "htmlCode": "&frac34;",
+    "unicode": "U+00BE (190)",
+    "keyboardShortCut": "Alt+00BE",
+    "titleFR": "Fraction trois-quart (trois divisé par quatre)"
+  },
+  {
+    "nameFR": "times",
+    "glyph": "×",
+    "htmlCode": "&times;",
+    "unicode": "U+00D7 (215)",
+    "keyboardShortCut": "Alt+00D7",
+    "titleFR": "Croix de multiplication"
+  },
+  {
+    "nameFR": "divide",
+    "glyph": "÷",
+    "htmlCode": "&divide;",
+    "unicode": "U+00F7 (247)",
+    "keyboardShortCut": "Alt+00F7",
+    "titleFR": "Obélus (Symbole de la division)"
+  }
+]

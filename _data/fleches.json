@@ -1,0 +1,282 @@
+[
+  {
+    "nameFR": "larr",
+    "glyph": "←",
+    "htmlCode": "&larr;",
+    "unicode": "U+2190 (8592)",
+    "keyboardShortCut": "Alt+2190",
+    "titleFR": "Flèche vers la gauche"
+  },
+  {
+    "nameFR": "uarr",
+    "glyph": "↑",
+    "htmlCode": "&uarr;",
+    "unicode": "U+2191 (8593)",
+    "keyboardShortCut": "Alt+2191",
+    "titleFR": "Flèche vers le haut"
+  },
+  {
+    "nameFR": "rarr",
+    "glyph": "→",
+    "htmlCode": "&rarr;",
+    "unicode": "U+2192 (8594)",
+    "keyboardShortCut": "Alt+2192",
+    "titleFR": "Flèche vers la droite"
+  },
+  {
+    "nameFR": "darr",
+    "glyph": "↓",
+    "htmlCode": "&darr;",
+    "unicode": "U+2193 (8595)",
+    "keyboardShortCut": "Alt+2193",
+    "titleFR": "flèche vers le bas"
+  },
+  {
+    "nameFR": "harr",
+    "glyph": "↔",
+    "htmlCode": "&harr;",
+    "unicode": "U+2194 (8596)",
+    "keyboardShortCut": "Alt+2194",
+    "titleFR": "Flèche bilatérale"
+  },
+  {
+    "nameFR": "crarr",
+    "glyph": "↵",
+    "htmlCode": "&crarr;",
+    "unicode": "U+21B5 (8629)",
+    "keyboardShortCut": "Alt+21B5",
+    "titleFR": "Flèche haut et bas"
+  },
+  {
+    "nameFR": "lArr",
+    "glyph": "⇐",
+    "htmlCode": "&lArr;",
+    "unicode": "U+21D0 (8656)",
+    "keyboardShortCut": "Alt+21D0",
+    "titleFR": "Double flèche vers la gauche"
+  },
+  {
+    "nameFR": "uArr",
+    "glyph": "⇑",
+    "htmlCode": "&uArr;",
+    "unicode": "U+21D1 (8657)",
+    "keyboardShortCut": "Alt+21D1",
+    "titleFR": "Double flèche vers le haut"
+  },
+  {
+    "nameFR": "rArr",
+    "glyph": "⇒",
+    "htmlCode": "&rArr;",
+    "unicode": "U+21D2 (8658)",
+    "keyboardShortCut": "Alt+21D2",
+    "titleFR": "Double flèche vers la droite"
+  },
+  {
+    "nameFR": "dArr",
+    "glyph": "⇓",
+    "htmlCode": "&dArr;",
+    "unicode": "U+21D3 (8659)",
+    "keyboardShortCut": "Alt+21D3",
+    "titleFR": "Double flèche vers le bas"
+  },
+  {
+    "nameFR": "hArr",
+    "glyph": "⇔",
+    "htmlCode": "&hArr;",
+    "unicode": "U+21D4 (8660)",
+    "keyboardShortCut": "Alt+21D4",
+    "titleFR": "Double flèche bilatérale"
+  },
+  {
+    "nameFR": "",
+    "glyph": "⬆",
+    "htmlCode": "",
+    "unicode": "U+2B06",
+    "keyboardShortCut": "",
+    "titleFR": "flèche ascendante"
+  },
+  {
+    "nameFR": "",
+    "glyph": "↗",
+    "htmlCode": "",
+    "unicode": "U+2197",
+    "keyboardShortCut": "",
+    "titleFR": "flèche droite"
+  },
+  {
+    "nameFR": "",
+    "glyph": "➡",
+    "htmlCode": "",
+    "unicode": "U+27A1",
+    "keyboardShortCut": "",
+    "titleFR": "flèche droite"
+  },
+  {
+    "nameFR": "",
+    "glyph": "↘",
+    "htmlCode": "",
+    "unicode": "U+2198",
+    "keyboardShortCut": "",
+    "titleFR": "flèche vers la droite"
+  },
+  {
+    "nameFR": "",
+    "glyph": "⬇",
+    "htmlCode": "",
+    "unicode": "U+2B07",
+    "keyboardShortCut": "",
+    "titleFR": "flèche vers le bas"
+  },
+  {
+    "nameFR": "",
+    "glyph": "↙",
+    "htmlCode": "",
+    "unicode": "U+2199",
+    "keyboardShortCut": "",
+    "titleFR": "flèche en bas à gauche"
+  },
+  {
+    "nameFR": "",
+    "glyph": "⬅",
+    "htmlCode": "",
+    "unicode": "U+2B05",
+    "keyboardShortCut": "",
+    "titleFR": "flèche de gauche"
+  },
+  {
+    "nameFR": "",
+    "glyph": "↖",
+    "htmlCode": "",
+    "unicode": "U+2196",
+    "keyboardShortCut": "",
+    "titleFR": "flèche ascendante gauche"
+  },
+  {
+    "nameFR": "",
+    "glyph": "↕",
+    "htmlCode": "",
+    "unicode": "U+2195",
+    "keyboardShortCut": "",
+    "titleFR": "flèche ascendante"
+  },
+  {
+    "nameFR": "",
+    "glyph": "↔",
+    "htmlCode": "",
+    "unicode": "U+2194",
+    "keyboardShortCut": "",
+    "titleFR": "flèche gauche-droite"
+  },
+  {
+    "nameFR": "",
+    "glyph": "↩",
+    "htmlCode": "",
+    "unicode": "U+21A9",
+    "keyboardShortCut": "",
+    "titleFR": "flèche droite courbe vers la gauche"
+  },
+  {
+    "nameFR": "",
+    "glyph": "↪",
+    "htmlCode": "",
+    "unicode": "U+21AA",
+    "keyboardShortCut": "",
+    "titleFR": "Flèche gauche courbée vers la droite"
+  },
+  {
+    "nameFR": "",
+    "glyph": "⤴",
+    "htmlCode": "",
+    "unicode": "U+2934",
+    "keyboardShortCut": "",
+    "titleFR": "flèche vers la droite courbée vers le haut"
+  },
+  {
+    "nameFR": "",
+    "glyph": "⤵",
+    "htmlCode": "",
+    "unicode": "U+2935",
+    "keyboardShortCut": "",
+    "titleFR": "flèche droite courbée vers le bas"
+  },
+  {
+    "nameFR": "",
+    "glyph": "🔃",
+    "htmlCode": "",
+    "unicode": "U+1F503",
+    "keyboardShortCut": "",
+    "titleFR": "flèches verticales dans le sens des aiguilles d'une montre"
+  },
+  {
+    "nameFR": "",
+    "glyph": "🔄",
+    "htmlCode": "",
+    "unicode": "U+1F504",
+    "keyboardShortCut": "",
+    "titleFR": "Bouton des flèches dans le sens contraire des aiguilles d'une montre"
+  },
+  {
+    "nameFR": "",
+    "glyph": "🔙",
+    "htmlCode": "",
+    "unicode": "U+1F519",
+    "keyboardShortCut": "",
+    "titleFR": "Flèche BACK"
+  },
+  {
+    "nameFR": "",
+    "glyph": "🔚",
+    "htmlCode": "",
+    "unicode": "U+1F51A",
+    "keyboardShortCut": "",
+    "titleFR": "Flèche END"
+  },
+  {
+    "nameFR": "",
+    "glyph": "🔛",
+    "htmlCode": "",
+    "unicode": "U+1F51B",
+    "keyboardShortCut": "",
+    "titleFR": "Flèche ON !"
+  },
+  {
+    "nameFR": "",
+    "glyph": "🔜",
+    "htmlCode": "",
+    "unicode": "U+1F51C",
+    "keyboardShortCut": "",
+    "titleFR": "Flèche SOON"
+  },
+  {
+    "nameFR": "",
+    "glyph": "🔝",
+    "htmlCode": "",
+    "unicode": "U+1F51D",
+    "keyboardShortCut": "",
+    "titleFR": "Flèche TOP"
+  },
+  {
+    "nameFR": "",
+    "glyph": "💘",
+    "htmlCode": "",
+    "unicode": "U+1F498",
+    "keyboardShortCut": "",
+    "titleFR": "coeur avec flèche"
+  },
+  {
+    "nameFR": "",
+    "glyph": "📲",
+    "htmlCode": "",
+    "unicode": "U+1F4F2",
+    "keyboardShortCut": "",
+    "titleFR": "téléphone portable avec flèche"
+  },
+  {
+    "nameFR": "",
+    "glyph": "📩",
+    "htmlCode": "",
+    "unicode": "U+1F4E9",
+    "keyboardShortCut": "",
+    "titleFR": "enveloppe avec flèche"
+  }
+]

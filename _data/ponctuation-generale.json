@@ -1,0 +1,202 @@
+[
+  {
+    "nameFR": "sdot",
+    "glyph": "⋅",
+    "htmlCode": "&sdot;",
+    "unicode": "U+22C5 (8901)",
+    "keyboardShortCut": "Alt+22C5",
+    "titleFR": "Opérateur Point"
+  },
+  {
+    "nameFR": "",
+    "glyph": "❗",
+    "htmlCode": "",
+    "unicode": "U+2757",
+    "keyboardShortCut": "",
+    "titleFR": "point d'exclamation"
+  },
+  {
+    "nameFR": "",
+    "glyph": "❕",
+    "htmlCode": "",
+    "unicode": "U+2755",
+    "keyboardShortCut": "",
+    "titleFR": "point d'exclamation blanc"
+  },
+  {
+    "nameFR": "",
+    "glyph": "‼",
+    "htmlCode": "",
+    "unicode": "U+203C",
+    "keyboardShortCut": "",
+    "titleFR": "double point d'exclamation"
+  },
+  {
+    "nameFR": "",
+    "glyph": "❓",
+    "htmlCode": "",
+    "unicode": "U+2753",
+    "keyboardShortCut": "",
+    "titleFR": "point d'interrogation"
+  },
+  {
+    "nameFR": "",
+    "glyph": "❔",
+    "htmlCode": "",
+    "unicode": "U+2754",
+    "keyboardShortCut": "",
+    "titleFR": "point d'interrogation blanc"
+  },
+  {
+    "nameFR": "",
+    "glyph": "⁉",
+    "htmlCode": "",
+    "unicode": "U+2049",
+    "keyboardShortCut": "",
+    "titleFR": "point d'interrogation d'exclamation"
+  },
+  {
+    "nameFR": "middot",
+    "glyph": "·",
+    "htmlCode": "&middot;",
+    "unicode": "U+00B7 (183)",
+    "keyboardShortCut": "Alt+00B7",
+    "titleFR": "Point médian"
+  },
+  {
+    "nameFR": "iquest",
+    "glyph": "¿",
+    "htmlCode": "&iquest;",
+    "unicode": "U+00BF (191)",
+    "keyboardShortCut": "Alt+00BF",
+    "titleFR": "Points d'interrogation culbutés"
+  },
+  {
+    "nameFR": "iexcl",
+    "glyph": "¡",
+    "htmlCode": "&iexcl;",
+    "unicode": "U+00A1 (161)",
+    "keyboardShortCut": "Alt+00A1",
+    "titleFR": "Points d'interrogation et d'exclamation culbutés"
+  },
+  {
+    "nameFR": "hellip",
+    "glyph": "…",
+    "htmlCode": "&hellip;",
+    "unicode": "U+2026 (8230)",
+    "keyboardShortCut": "Alt+2026",
+    "titleFR": "Points de suspension horizontaux"
+  },
+  {
+    "nameFR": "vellip",
+    "glyph": "⋮",
+    "htmlCode": "&vellip;",
+    "unicode": "U+22EE (8942)",
+    "keyboardShortCut": "Alt+22EE",
+    "titleFR": "Points de suspension verticaux"
+  },
+  {
+    "nameFR": "Dagger",
+    "glyph": "‡",
+    "htmlCode": "&Dagger;",
+    "unicode": "U+2021 (8225)",
+    "keyboardShortCut": "Alt+2021",
+    "titleFR": "Double obèle"
+  },
+  {
+    "nameFR": "Prime",
+    "glyph": "″",
+    "htmlCode": "&Prime;",
+    "unicode": "U+2033 (8243)",
+    "keyboardShortCut": "Alt+2033",
+    "titleFR": "Double prime"
+  },
+  {
+    "nameFR": "quot",
+    "glyph": "&quot;",
+    "htmlCode": "&quot;",
+    "unicode": "U+0022 (34)",
+    "keyboardShortCut": "Alt+0022",
+    "titleFR": "Guillemet droit"
+  },
+  {
+    "nameFR": "raquo",
+    "glyph": "»",
+    "htmlCode": "&raquo;",
+    "unicode": "U+00BB (187)",
+    "keyboardShortCut": "Alt+00BB",
+    "titleFR": "Guillemet droit"
+  },
+  {
+    "nameFR": "laquo",
+    "glyph": "«",
+    "htmlCode": "&laquo;",
+    "unicode": "U+00AB (171)",
+    "keyboardShortCut": "Alt+00AB",
+    "titleFR": "Guillemet gauche"
+  },
+  {
+    "nameFR": "rsaquo",
+    "glyph": "›",
+    "htmlCode": "&rsaquo;",
+    "unicode": "U+203A (8250)",
+    "keyboardShortCut": "Alt+203A",
+    "titleFR": "Guillemet simple vers la droite"
+  },
+  {
+    "nameFR": "lsaquo",
+    "glyph": "‹",
+    "htmlCode": "&lsaquo;",
+    "unicode": "U+2039 (8249)",
+    "keyboardShortCut": "Alt+2039",
+    "titleFR": "Guillemet simple vers la gauche"
+  },
+  {
+    "nameFR": "rsquo",
+    "glyph": "’",
+    "htmlCode": "&rsquo;",
+    "unicode": "U+2019 (8217)",
+    "keyboardShortCut": "Alt+2019",
+    "titleFR": "guillemet-apostrophe"
+  },
+  {
+    "nameFR": "lsquo",
+    "glyph": "‘",
+    "htmlCode": "&lsquo;",
+    "unicode": "U+2018 (8216)",
+    "keyboardShortCut": "Alt+2018",
+    "titleFR": "Guillemet-apostrophe culbuté"
+  },
+  {
+    "nameFR": "rdquo",
+    "glyph": "”",
+    "htmlCode": "&rdquo;",
+    "unicode": "U+201D (8221)",
+    "keyboardShortCut": "Alt+201D",
+    "titleFR": "guillemet-apostrophe double"
+  },
+  {
+    "nameFR": "ldquo",
+    "glyph": "“",
+    "htmlCode": "&ldquo;",
+    "unicode": "U+201C (8220)",
+    "keyboardShortCut": "Alt+201C",
+    "titleFR": "guillemet-apostrophe double culbuté"
+  },
+  {
+    "nameFR": "bdquo",
+    "glyph": "„",
+    "htmlCode": "&bdquo;",
+    "unicode": "U+201E (8222)",
+    "keyboardShortCut": "Alt+201E",
+    "titleFR": "Guillemet-virgule double inférieur"
+  },
+  {
+    "nameFR": "sbquo",
+    "glyph": "‚",
+    "htmlCode": "&sbquo;",
+    "unicode": "U+201A (8218)",
+    "keyboardShortCut": "Alt+201A",
+    "titleFR": "Guillemet-virgule inférieur"
+  }
+]

@@ -1,0 +1,426 @@
+[
+  {
+    "nameFR": "Alpha",
+    "glyph": "Α",
+    "htmlCode": "&Alpha;",
+    "unicode": "U+0391 (913)",
+    "keyboardShortCut": "Alt+0391",
+    "titleFR": "Lettre majuscule grec Alpha"
+  },
+  {
+    "nameFR": "Beta",
+    "glyph": "Β",
+    "htmlCode": "&Beta;",
+    "unicode": "U+0392 (914)",
+    "keyboardShortCut": "Alt+0392",
+    "titleFR": "Lettre majuscule grec Beta"
+  },
+  {
+    "nameFR": "Gamma",
+    "glyph": "Γ",
+    "htmlCode": "&Gamma;",
+    "unicode": "U+0393 (915)",
+    "keyboardShortCut": "Alt+0393",
+    "titleFR": "Lettre majuscule grec Gamma"
+  },
+  {
+    "nameFR": "Delta",
+    "glyph": "Δ",
+    "htmlCode": "&Delta;",
+    "unicode": "U+0394 (916)",
+    "keyboardShortCut": "Alt+0394",
+    "titleFR": "Lettre majuscule grec Delta"
+  },
+  {
+    "nameFR": "Epsilon",
+    "glyph": "Ε",
+    "htmlCode": "&Epsilon;",
+    "unicode": "U+0395 (917)",
+    "keyboardShortCut": "Alt+0395",
+    "titleFR": "Lettre majuscule grec Epsilon"
+  },
+  {
+    "nameFR": "Zeta",
+    "glyph": "Ζ",
+    "htmlCode": "&Zeta;",
+    "unicode": "U+0396 (918)",
+    "keyboardShortCut": "Alt+0396",
+    "titleFR": "Lettre majuscule grec Zêta"
+  },
+  {
+    "nameFR": "Eta",
+    "glyph": "Η",
+    "htmlCode": "&Eta;",
+    "unicode": "U+0397 (919)",
+    "keyboardShortCut": "Alt+0397",
+    "titleFR": "Lettre majuscule grec Eta"
+  },
+  {
+    "nameFR": "Theta",
+    "glyph": "Θ",
+    "htmlCode": "&Theta;",
+    "unicode": "U+0398 (920)",
+    "keyboardShortCut": "Alt+0398",
+    "titleFR": "Lettre majuscule grec Theta"
+  },
+  {
+    "nameFR": "Iota",
+    "glyph": "Ι",
+    "htmlCode": "&Iota;",
+    "unicode": "U+0399 (921)",
+    "keyboardShortCut": "Alt+0399",
+    "titleFR": "Lettre majuscule grec Iota"
+  },
+  {
+    "nameFR": "Kappa",
+    "glyph": "Κ",
+    "htmlCode": "&Kappa;",
+    "unicode": "U+039A (922)",
+    "keyboardShortCut": "Alt+039A",
+    "titleFR": "Lettre majuscule grec Kappa"
+  },
+  {
+    "nameFR": "Lambda",
+    "glyph": "Λ",
+    "htmlCode": "&Lambda;",
+    "unicode": "U+039B (923)",
+    "keyboardShortCut": "Alt+039B",
+    "titleFR": "Lettre majuscule grec Lambda"
+  },
+  {
+    "nameFR": "Mu",
+    "glyph": "Μ",
+    "htmlCode": "&Mu;",
+    "unicode": "U+039C (924)",
+    "keyboardShortCut": "Alt+039C",
+    "titleFR": "Lettre majuscule grec Mu"
+  },
+  {
+    "nameFR": "Nu",
+    "glyph": "Ν",
+    "htmlCode": "&Nu;",
+    "unicode": "U+039D (925)",
+    "keyboardShortCut": "Alt+039D",
+    "titleFR": "Lettre majuscule grec Nu"
+  },
+  {
+    "nameFR": "Xi",
+    "glyph": "Ξ",
+    "htmlCode": "&Xi;",
+    "unicode": "U+039E (926)",
+    "keyboardShortCut": "Alt+039E",
+    "titleFR": "Lettre majuscule grec Xi"
+  },
+  {
+    "nameFR": "Omicron",
+    "glyph": "Ο",
+    "htmlCode": "&Omicron;",
+    "unicode": "U+039F (927)",
+    "keyboardShortCut": "Alt+039F",
+    "titleFR": "Lettre majuscule grec Omicron"
+  },
+  {
+    "nameFR": "Pi",
+    "glyph": "Π",
+    "htmlCode": "&Pi;",
+    "unicode": "U+03A0 (928)",
+    "keyboardShortCut": "Alt+03A0",
+    "titleFR": "Lettre majuscule grec Pi"
+  },
+  {
+    "nameFR": "Rho",
+    "glyph": "Ρ",
+    "htmlCode": "&Rho;",
+    "unicode": "U+03A1 (929)",
+    "keyboardShortCut": "Alt+03A1",
+    "titleFR": "Lettre majuscule grec Rho"
+  },
+  {
+    "nameFR": "Sigma",
+    "glyph": "Σ",
+    "htmlCode": "&Sigma;",
+    "unicode": "U+03A3 (931)",
+    "keyboardShortCut": "Alt+03A3",
+    "titleFR": "Lettre majuscule grec Sigma"
+  },
+  {
+    "nameFR": "Tau",
+    "glyph": "Τ",
+    "htmlCode": "&Tau;",
+    "unicode": "U+03A4 (932)",
+    "keyboardShortCut": "Alt+03A4",
+    "titleFR": "Lettre majuscule grec Tau"
+  },
+  {
+    "nameFR": "Upsilon",
+    "glyph": "Υ",
+    "htmlCode": "&Upsilon;",
+    "unicode": "U+03A5 (933)",
+    "keyboardShortCut": "Alt+03A5",
+    "titleFR": "Lettre majuscule grec Upsilon"
+  },
+  {
+    "nameFR": "Phi",
+    "glyph": "Φ",
+    "htmlCode": "&Phi;",
+    "unicode": "U+03A6 (934)",
+    "keyboardShortCut": "Alt+03A6",
+    "titleFR": "Lettre majuscule grec Phi"
+  },
+  {
+    "nameFR": "Chi",
+    "glyph": "Χ",
+    "htmlCode": "&Chi;",
+    "unicode": "U+03A7 (935)",
+    "keyboardShortCut": "Alt+03A7",
+    "titleFR": "Lettre majuscule grec Chi"
+  },
+  {
+    "nameFR": "Psi",
+    "glyph": "Ψ",
+    "htmlCode": "&Psi;",
+    "unicode": "U+03A8 (936)",
+    "keyboardShortCut": "Alt+03A8",
+    "titleFR": "Lettre majuscule grec Psi"
+  },
+  {
+    "nameFR": "Omega",
+    "glyph": "Ω",
+    "htmlCode": "&Omega;",
+    "unicode": "U+03A9 (937)",
+    "keyboardShortCut": "Alt+03A9",
+    "titleFR": "Lettre majuscule grec Omega"
+  },
+  {
+    "nameFR": "alpha",
+    "glyph": "α",
+    "htmlCode": "&alpha;",
+    "unicode": "U+03B1 (945)",
+    "keyboardShortCut": "Alt+03B1",
+    "titleFR": "Lettre minuscule grec alpha"
+  },
+  {
+    "nameFR": "beta",
+    "glyph": "β",
+    "htmlCode": "&beta;",
+    "unicode": "U+03B2 (946)",
+    "keyboardShortCut": "Alt+03B2",
+    "titleFR": "Lettre minuscule grec beta"
+  },
+  {
+    "nameFR": "gamma",
+    "glyph": "γ",
+    "htmlCode": "&gamma;",
+    "unicode": "U+03B3 (947)",
+    "keyboardShortCut": "Alt+03B3",
+    "titleFR": "Lettre minuscule grec gamma"
+  },
+  {
+    "nameFR": "delta",
+    "glyph": "δ",
+    "htmlCode": "&delta;",
+    "unicode": "U+03B4 (948)",
+    "keyboardShortCut": "Alt+03B4",
+    "titleFR": "Lettre minuscule grec delta"
+  },
+  {
+    "nameFR": "epsilon",
+    "glyph": "ε",
+    "htmlCode": "&epsilon;",
+    "unicode": "U+03B5 (949)",
+    "keyboardShortCut": "Alt+03B5",
+    "titleFR": "Lettre minuscule grec epsilon"
+  },
+  {
+    "nameFR": "zeta",
+    "glyph": "ζ",
+    "htmlCode": "&zeta;",
+    "unicode": "U+03B6 (950)",
+    "keyboardShortCut": "Alt+03B6",
+    "titleFR": "Lettre minuscule grec zêta"
+  },
+  {
+    "nameFR": "eta",
+    "glyph": "η",
+    "htmlCode": "&eta;",
+    "unicode": "U+03B7 (951)",
+    "keyboardShortCut": "Alt+03B7",
+    "titleFR": "Lettre minuscule grec eta"
+  },
+  {
+    "nameFR": "theta",
+    "glyph": "θ",
+    "htmlCode": "&theta;",
+    "unicode": "U+03B8 (952)",
+    "keyboardShortCut": "Alt+03B8",
+    "titleFR": "Lettre minuscule grec theta"
+  },
+  {
+    "nameFR": "iota",
+    "glyph": "ι",
+    "htmlCode": "&iota;",
+    "unicode": "U+03B9 (953)",
+    "keyboardShortCut": "Alt+03B9",
+    "titleFR": "Lettre minuscule grec iota"
+  },
+  {
+    "nameFR": "kappa",
+    "glyph": "κ",
+    "htmlCode": "&kappa;",
+    "unicode": "U+03BA (954)",
+    "keyboardShortCut": "Alt+03BA",
+    "titleFR": "Lettre minuscule grec kappa"
+  },
+  {
+    "nameFR": "lambda",
+    "glyph": "λ",
+    "htmlCode": "&lambda;",
+    "unicode": "U+03BB (955)",
+    "keyboardShortCut": "Alt+03BB",
+    "titleFR": "Lettre minuscule grec lambda"
+  },
+  {
+    "nameFR": "mu",
+    "glyph": "μ",
+    "htmlCode": "&mu;",
+    "unicode": "U+03BC (956)",
+    "keyboardShortCut": "Alt+03BC",
+    "titleFR": "Lettre minuscule grec mu"
+  },
+  {
+    "nameFR": "nu",
+    "glyph": "ν",
+    "htmlCode": "&nu;",
+    "unicode": "U+03BD (957)",
+    "keyboardShortCut": "Alt+03BD",
+    "titleFR": "Lettre minuscule grec nu"
+  },
+  {
+    "nameFR": "xi",
+    "glyph": "ξ",
+    "htmlCode": "&xi;",
+    "unicode": "U+03BE (958)",
+    "keyboardShortCut": "Alt+03BE",
+    "titleFR": "Lettre minuscule grec xi"
+  },
+  {
+    "nameFR": "omicron",
+    "glyph": "ο",
+    "htmlCode": "&omicron;",
+    "unicode": "U+03BF (959)",
+    "keyboardShortCut": "Alt+03BF",
+    "titleFR": "Lettre minuscule grec omicron"
+  },
+  {
+    "nameFR": "pi",
+    "glyph": "π",
+    "htmlCode": "&pi;",
+    "unicode": "U+03C0 (960)",
+    "keyboardShortCut": "Alt+03C0",
+    "titleFR": "Lettre minuscule grec pi"
+  },
+  {
+    "nameFR": "rho",
+    "glyph": "ρ",
+    "htmlCode": "&rho;",
+    "unicode": "U+03C1 (961)",
+    "keyboardShortCut": "Alt+03C1",
+    "titleFR": "Lettre minuscule grec rho"
+  },
+  {
+    "nameFR": "sigmaf",
+    "glyph": "ς",
+    "htmlCode": "&sigmaf;",
+    "unicode": "U+03C2 (962)",
+    "keyboardShortCut": "Alt+03C2",
+    "titleFR": "Lettre minuscule grec sigma (en fin de mot)"
+  },
+  {
+    "nameFR": "sigma",
+    "glyph": "σ",
+    "htmlCode": "&sigma;",
+    "unicode": "U+03C3 (963)",
+    "keyboardShortCut": "Alt+03C3",
+    "titleFR": "Lettre minuscule grec sigma"
+  },
+  {
+    "nameFR": "tau",
+    "glyph": "τ",
+    "htmlCode": "&tau;",
+    "unicode": "U+03C4 (964)",
+    "keyboardShortCut": "Alt+03C4",
+    "titleFR": "Lettre minuscule grec tau"
+  },
+  {
+    "nameFR": "upsilon",
+    "glyph": "υ",
+    "htmlCode": "&upsilon;",
+    "unicode": "U+03C5 (965)",
+    "keyboardShortCut": "Alt+03C5",
+    "titleFR": "Lettre minuscule grec upsilon"
+  },
+  {
+    "nameFR": "phi",
+    "glyph": "φ",
+    "htmlCode": "&phi;",
+    "unicode": "U+03C6 (966)",
+    "keyboardShortCut": "Alt+03C6",
+    "titleFR": "Lettre minuscule grec phi"
+  },
+  {
+    "nameFR": "chi",
+    "glyph": "χ",
+    "htmlCode": "&chi;",
+    "unicode": "U+03C7 (967)",
+    "keyboardShortCut": "Alt+03C7",
+    "titleFR": "Lettre minuscule grec chi"
+  },
+  {
+    "nameFR": "psi",
+    "glyph": "ψ",
+    "htmlCode": "&psi;",
+    "unicode": "U+03C8 (968)",
+    "keyboardShortCut": "Alt+03C8",
+    "titleFR": "Lettre minuscule grec psi"
+  },
+  {
+    "nameFR": "omega",
+    "glyph": "ω",
+    "htmlCode": "&omega;",
+    "unicode": "U+03C9 (969)",
+    "keyboardShortCut": "Alt+03C9",
+    "titleFR": "Lettre minuscule grec omega"
+  },
+  {
+    "nameFR": "thetasym",
+    "glyph": "ϑ",
+    "htmlCode": "&thetasym;",
+    "unicode": "U+03D1 (977)",
+    "keyboardShortCut": "Alt+03D1",
+    "titleFR": "Symbole theta grec"
+  },
+  {
+    "nameFR": "upsih",
+    "glyph": "ϒ",
+    "htmlCode": "&upsih;",
+    "unicode": "U+03D2 (978)",
+    "keyboardShortCut": "Alt+03D2",
+    "titleFR": "Lettre minuscule grec Upsilon (avec crochet)"
+  },
+  {
+    "nameFR": "piv",
+    "glyph": "ϖ",
+    "htmlCode": "&piv;",
+    "unicode": "U+03D6 (982)",
+    "keyboardShortCut": "Alt+03D6",
+    "titleFR": "Symbole pi grec"
+  },
+  {
+    "nameFR": "micro",
+    "glyph": "µ",
+    "htmlCode": "&micro;",
+    "unicode": "U+00B5 (181)",
+    "keyboardShortCut": "Alt+00B5",
+    "titleFR": "Symbole micro (lettre grec mu minuscule)"
+  }
+]
